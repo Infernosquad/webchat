@@ -20,7 +20,7 @@ $(document).ready(function(){
     function initChat () {
 
         //Open connection
-        conn = new WebSocket('ws://localhost:8888')
+        conn = new WebSocket('ws://artemzhuravlev.com:8888')
             
         //Event handler for open connection
         conn.onopen = function(e) {
