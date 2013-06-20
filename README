@@ -1,0 +1,5 @@
+<h1>Simple web chat based on websockets.</h1>
+Server side - php(Ratchet http://socketo.me), js - native web sockets
+This technology is working on the latest web browser.Tested on Google Chrome 28.0.1500.45.
+Demo : http://websockets.artemzhuravlev.com
+
