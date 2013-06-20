@@ -14,6 +14,11 @@
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 <body>
+    <a href="https://github.com/Infernosquad/webchat">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" 
+        src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" 
+        alt="Fork me on GitHub">
+    </a>
     <div class="container">
 
         <div class="page-header">
